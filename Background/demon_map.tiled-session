@@ -1,0 +1,25 @@
+{
+    "activeFile": "final_game_map.tmj",
+    "fileStates": {
+        "": {
+            "scaleInEditor": 1
+        },
+        "final_game_map.tmj": {
+            "scale": 0.75,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 602,
+                "y": 1328
+            }
+        },
+        "final_game_map.tmj#tileSet": {
+            "scaleInDock": 1
+        }
+    },
+    "openFiles": [
+        "final_game_map.tmj"
+    ],
+    "recentFiles": [
+        "final_game_map.tmj"
+    ]
+}
