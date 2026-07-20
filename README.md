@@ -8,8 +8,10 @@
 
 ## 🎥 Gameplay
 
-<img width="800" height="436" alt="Demon Killer gameplay screenshot 1" src="https://github.com/user-attachments/assets/2b85088b-ff30-4d5c-a8d5-522382ca43f1" />
-<img width="800" height="450" alt="Demon Killer gameplay screenshot 2" src="https://github.com/user-attachments/assets/736c615c-b22a-4ef6-b607-dd0adb94ead9" />
+
+<img width="800" height="450" alt="GIF1" src="https://github.com/user-attachments/assets/b6033e86-234b-4684-bc24-865629609801" />
+
+<img width="800" height="436" alt=<img width="800" height="436" alt="GIF2" src="https://github.com/user-attachments/assets/6b9f3100-b063-4833-ac9d-14858190abe6" />
 
 ---
 
