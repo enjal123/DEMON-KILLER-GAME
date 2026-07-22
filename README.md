@@ -4,8 +4,7 @@
 
 > "The end of hatred… begins with one fallen demon."
 
-[GAME LINK 
-]([url](https://demon-killer-game.netlify.app/))---
+[GAME LINK](https://demon-killer-game.netlify.app/)
 
 ## 🎥 Gameplay
 
