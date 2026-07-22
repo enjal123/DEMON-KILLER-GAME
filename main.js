@@ -5,8 +5,8 @@ class IntroScene extends Phaser.Scene {
         // Load any intro images you want to flash on screen.
         // Replace the placeholder strings with your actual file paths.
         // Use an existing background/family image from the project to avoid 404s.
-        this.load.image('intro_family',   '../Assets/dead family.webp');
-        this.load.image('intro_cave',     '../Assets/cave entrance.webp');
+        this.load.image('intro_family',   'Assets/dead family.webp');
+        this.load.image('intro_cave',     'Assets/cave entrance.webp');
     }
  
     create() {
@@ -644,9 +644,9 @@ class GameScene extends Phaser.Scene {
         this.load.image('tiles', '../Maps/mainlev_build.png');
         this.load.tilemapTiledJSON('map', '../Maps/final_game_map.tmj');
  
-        this.load.image('bg1', '../Background/background1.png');
-        this.load.image('bg2', '../Background/background2.png');
-        this.load.image('bg3', '../Background/background3.png');
+        this.load.image('bg1', 'Background/background1.png');
+        this.load.image('bg2', 'Background/background2.png');
+        this.load.image('bg3', 'Background/background3.png');
  
         this.load.audio('bgm', '../sounds/bgm.mp3');
         this.load.audio('v_attack', '../sounds/v_attack.mp3');
