@@ -1,10 +1,11 @@
 # ⚔️ DEMON KILLER
-([url](https://demon-killer-game.netlify.app/))
+
 *A cinematic 2D action-platformer built with Phaser 3 + Matter.js*
 
 > "The end of hatred… begins with one fallen demon."
 
----
+[GAME LINK 
+]([url](https://demon-killer-game.netlify.app/))---
 
 ## 🎥 Gameplay
 
